@@ -1,0 +1,30 @@
+body{
+    background-color: darkseagreen;
+    margin-left: 100px;
+
+}
+form{
+    justify-content: center  ;
+    padding: 50px;
+    background-color: darkgrey;
+
+}
+#yoga{
+    margin-left: 100px
+;
+}
+#yogalist{
+    margin-left: 50px;
+}
+.topnav a {
+    color: white;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 50px;
+    font-size: medium;
+
+}
+h4{ color: white}
+h3{
+    margin-left: 50px;
+}
